@@ -1,0 +1,346 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AHWS Admission Application Form</title>
+    <style>
+        :root {
+            --primary: #0d47a1;
+            --border: #333;
+        }
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #000;
+            margin: 0;
+            padding: 20px;
+            background: #f0f0f0;
+        }
+        .print-container {
+            max-width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20mm;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            box-sizing: border-box;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header img {
+            max-height: 80px;
+        }
+        .header-text {
+            flex-grow: 1;
+            text-align: center;
+        }
+        .header-text h1 {
+            margin: 0;
+            color: var(--primary);
+            font-size: 24px;
+            text-transform: uppercase;
+        }
+        .header-text p {
+            margin: 5px 0 0;
+            font-size: 14px;
+        }
+        .photo-box {
+            width: 35mm;
+            height: 45mm;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            color: #666;
+            text-align: center;
+            padding: 5px;
+        }
+        .section-title {
+            background-color: var(--primary);
+            color: white;
+            padding: 5px 10px;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 15px 0 10px;
+            text-transform: uppercase;
+        }
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 10px;
+        }
+        .form-grid.full {
+            grid-template-columns: 1fr;
+        }
+        .form-group {
+            display: flex;
+            flex-direction: column;
+        }
+        .form-group label {
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+        .form-group .line {
+            border-bottom: 1px dashed var(--border);
+            height: 20px;
+        }
+        .form-row {
+            display: flex;
+            gap: 15px;
+        }
+        .form-row > div {
+            flex: 1;
+        }
+        .instructions {
+            font-size: 11px;
+            margin-bottom: 15px;
+        }
+        .instructions ul {
+            margin: 5px 0;
+            padding-left: 20px;
+        }
+        .declaration {
+            font-size: 11px;
+            text-align: justify;
+            margin-bottom: 30px;
+        }
+        .signatures {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+        }
+        .signature-box {
+            text-align: center;
+            width: 200px;
+        }
+        .signature-box .line {
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 5px;
+            height: 30px;
+        }
+        .signature-box span {
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .office-use {
+            border: 2px solid var(--border);
+            padding: 15px;
+            margin-top: 30px;
+        }
+        
+        .print-btn-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .print-btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .print-btn:hover {
+            background-color: #08306b;
+        }
+
+        @media print {
+            body {
+                background: #fff;
+                padding: 0;
+            }
+            .print-container {
+                box-shadow: none;
+                padding: 0;
+                margin: 0;
+            }
+            .print-btn-container {
+                display: none;
+            }
+            @page {
+                size: A4;
+                margin: 15mm;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="print-btn-container">
+        <button class="print-btn" onclick="window.print()">🖨️ Print Application Form</button>
+    </div>
+    
+    <div class="print-container">
+        <div class="header">
+            <img src="/favicon.png" alt="AHWS Logo" style="width: 60px; object-fit: contain;">
+            <div class="header-text">
+                <h1>Academic Heights World School</h1>
+                <p>CBSE Affiliated | Pitampura, Delhi</p>
+                <p><strong>ADMISSION APPLICATION FORM (2027-28)</strong></p>
+            </div>
+            <div class="photo-box">
+                Affix Recent<br>Passport Size<br>Photograph
+            </div>
+        </div>
+
+        <div class="instructions">
+            <strong>Instructions:</strong>
+            <ul>
+                <li>Please fill the form in BLOCK LETTERS using a blue or black ballpoint pen.</li>
+                <li>Attach a copy of the Birth Certificate, Aadhaar Card, and previous year's report card (if applicable).</li>
+                <li>Incomplete forms will not be processed.</li>
+            </ul>
+        </div>
+
+        <div class="section-title">1. Student Details</div>
+        <div class="form-grid full">
+            <div class="form-group">
+                <label>Grade / Class Applying For:</label>
+                <div class="line"></div>
+            </div>
+        </div>
+        <div class="form-grid">
+            <div class="form-group">
+                <label>First Name:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Last Name:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Date of Birth (DD/MM/YYYY):</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Gender (Male/Female/Other):</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Blood Group:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Student's Aadhaar Number:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Nationality:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Religion / Category:</label>
+                <div class="line"></div>
+            </div>
+        </div>
+        <div class="form-grid full">
+            <div class="form-group">
+                <label>Previous School Attended (If any):</label>
+                <div class="line"></div>
+            </div>
+        </div>
+
+        <div class="section-title">2. Parent / Guardian Details</div>
+        <div class="form-grid">
+            <div class="form-group">
+                <label>Father's Name:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Mother's Name:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Father's Occupation & Designation:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Mother's Occupation & Designation:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Contact Number (Mobile):</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Alternate Contact / WhatsApp:</label>
+                <div class="line"></div>
+            </div>
+        </div>
+        <div class="form-grid full">
+            <div class="form-group">
+                <label>Email Address:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Residential Address (with PIN Code):</label>
+                <div class="line"></div>
+                <div class="line" style="margin-top: 10px;"></div>
+            </div>
+        </div>
+
+        <div class="section-title">3. Medical & Emergency Information</div>
+        <div class="form-grid full">
+            <div class="form-group">
+                <label>Any specific medical condition, allergies, or regular medication?</label>
+                <div class="line"></div>
+            </div>
+        </div>
+        <div class="form-grid">
+            <div class="form-group">
+                <label>Emergency Contact Person:</label>
+                <div class="line"></div>
+            </div>
+            <div class="form-group">
+                <label>Emergency Contact Number:</label>
+                <div class="line"></div>
+            </div>
+        </div>
+
+        <div class="section-title">4. Declaration</div>
+        <div class="declaration">
+            I/We hereby declare that all the information provided in this application is true and correct to the best of my/our knowledge. I/We understand that if any information is found to be false, the admission may be cancelled. I/We agree to abide by the rules and regulations of Academic Heights World School.
+        </div>
+
+        <div class="signatures">
+            <div class="signature-box">
+                <div class="line"></div>
+                <span>Signature of Father / Guardian</span>
+            </div>
+            <div class="signature-box">
+                <div class="line"></div>
+                <span>Signature of Mother</span>
+            </div>
+            <div class="signature-box">
+                <div class="line"></div>
+                <span>Date</span>
+            </div>
+        </div>
+
+        <div class="office-use">
+            <div style="font-weight: bold; text-align: center; margin-bottom: 10px;">FOR OFFICE USE ONLY</div>
+            <div class="form-row">
+                <div class="form-group"><label>Form No:</label><div class="line"></div></div>
+                <div class="form-group"><label>Admission Granted to Class:</label><div class="line"></div></div>
+                <div class="form-group"><label>Date:</label><div class="line"></div></div>
+            </div>
+            <div class="signatures" style="margin-top: 20px;">
+                <div class="signature-box"><div class="line"></div><span>Checked By</span></div>
+                <div class="signature-box"><div class="line"></div><span>Principal's Signature</span></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
