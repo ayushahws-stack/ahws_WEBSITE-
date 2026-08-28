@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahws.edu.in/sitemap.xml
