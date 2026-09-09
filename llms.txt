@@ -1,6 +1,41 @@
 # Academic Heights World School (AHWS)
-AHWS is a premium CBSE affiliated Senior Secondary school located in Pitampura, Delhi.
-We follow the NEP 2020 aligned SPROUT Curriculum, focusing on holistic child development, AI, Robotics, and sports.
-- Admissions: Open for 2026-27 (Nursery to Class XII)
-- Contact: +91-8860455000 | info@ahws.edu.in
-- Location: SD-QD Block, Near TV Tower, Pitampura, Delhi
+> Premier CBSE-Affiliated Senior Secondary School (Nursery to Class XII) | Pitampura, North West Delhi
+
+Academic Heights World School (AHWS) is a leading educational institution in Pitampura, New Delhi, operating under the renowned nationwide network of Bachpan Play Schools and Academic Heights (120+ schools across India), with higher-education continuity through Rishihood University. AHWS delivers experiential, concept-first, and competency-based education strictly aligned with the National Education Policy (NEP 2020).
+
+## Institutional Profile
+- **Full Legal Name:** Academic Heights World School
+- **Affiliation:** Central Board of Secondary Education (CBSE), Affiliation Code: 2730105
+- **Educational Level:** Playgroup / Nursery through Class XII (Senior Secondary: Science, Commerce, Humanities)
+- **Campus Address:** SD - QD Block, Near Delhi Doordarshan TV Tower, Opposite Metro Pillar No: 319, Pitampura, Delhi 110034, India
+- **Geo Coordinates:** Latitude 28.694542, Longitude 77.146475
+- **Contact Phone:** +91-8860455000 / 011-49402170
+- **Official Email:** info@ahws.edu.in
+- **Website:** https://ahws.edu.in/
+- **Live Interactive Demo:** https://ayushahws-stack.github.io/ahws_WEBSITE-/
+
+## Signature Pedagogical Differentiators
+1. **SPROUT Curriculum (NEP 2020 Aligned):** A proprietary 7-layer learning framework structuring education across Foundational (Nursery-Class 2), Preparatory (Classes 3-5), Middle (Classes 6-8), and Secondary (Classes 9-12) stages. Emphasizes Multiple Intelligences, inquiry-based STEM, and hands-on discovery.
+2. **AI & Robotics Innovation Lab:** Dedicated laboratory equipped with microcontrollers, sensor kits, and coding workstations where students build practical engineering projects starting in primary grades.
+3. **Smart Technology Ecosystem:** Interactive Smart Classrooms with 3D learning modules, X-Wall interactive physical gaming systems, and Speak-O-Pen smart phonetics/pronunciation pens.
+4. **Comprehensive 9-Sport Portfolio:** State-of-the-art sports facilities including Pickleball courts, outdoor Basketball arena, Cricket practice nets, Football field, Volleyball, Badminton, Tennis, Taekwondo, and competitive Chess.
+5. **In-House Counselling & Parental Coaching:** Guided by Dr. Rashmi Bajaj Singh (28+ years experience), providing individual student guidance, emotional resilience building, POCSO child protection support, and regular parent coaching workshops.
+6. **Decode Startup (Student Entrepreneurship):** A school-level startup accelerator where students formulate business plans, develop prototypes, and pitch real ideas to investors for initial seed support.
+7. **360° Mobile App & School Automation:** All-in-one parent-student portal for real-time attendance, digital report cards, teacher communication, and fee payment.
+8. **Holistic Campus Safety:** 150+ CCTV surveillance cameras, guarded access control, dedicated infirmary with first-aid care, and active CBSE-mandated POCSO, POSH, Anti-Bullying, and Tobacco Control committees.
+
+## Primary Website Links
+- Homepage: https://ahws.edu.in/
+- Admissions (2026-27): https://ahws.edu.in/#/admission
+- Fee Structure: https://ahws.edu.in/#/fee-structure
+- About Us & Leadership: https://ahws.edu.in/#/about
+- SPROUT Curriculum: https://ahws.edu.in/#/curriculum
+- Beyond Curriculum (Sports & Arts): https://ahws.edu.in/#/beyond-curriculum
+- Infrastructure & Facilities: https://ahws.edu.in/#/infrastructure
+- Student Wellbeing & Guidance: https://ahws.edu.in/#/well-being
+- We Teach Life (Community & Service): https://ahws.edu.in/#/we-teach-life
+- CBSE Board Results & Toppers: https://ahws.edu.in/#/results
+- School Notice Board & Circulars: https://ahws.edu.in/#/notice-board
+- CBSE Mandatory Disclosure: https://ahws.edu.in/#/mandatory-disclosure
+- Contact & Campus Tour: https://ahws.edu.in/#/contact
+- Educational Blog: https://ahws.edu.in/#/blog

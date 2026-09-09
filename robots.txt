@@ -1,3 +1,34 @@
+# Academic Heights World School (AHWS) - Robots.txt
+# Website: https://ahws.edu.in/
+
 User-agent: *
 Allow: /
+
+# Dedicated Search & AI Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Sitemaps and LLM context
 Sitemap: https://ahws.edu.in/sitemap.xml
+# LLMs knowledge context: https://ahws.edu.in/llms.txt
