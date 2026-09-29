@@ -8,19 +8,19 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/admission</loc>
+    <loc>https://ahws.edu.in/admission</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/contact</loc>
+    <loc>https://ahws.edu.in/contact</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/notice-board</loc>
+    <loc>https://ahws.edu.in/notice-board</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -28,55 +28,55 @@
 
   <!-- Academics & School Pillars -->
   <url>
-    <loc>https://ahws.edu.in/#/about</loc>
+    <loc>https://ahws.edu.in/about</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/curriculum</loc>
+    <loc>https://ahws.edu.in/curriculum</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/academics</loc>
+    <loc>https://ahws.edu.in/academics</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/beyond-curriculum</loc>
+    <loc>https://ahws.edu.in/beyond-curriculum</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/infrastructure</loc>
+    <loc>https://ahws.edu.in/infrastructure</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/well-being</loc>
+    <loc>https://ahws.edu.in/well-being</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/we-teach-life</loc>
+    <loc>https://ahws.edu.in/we-teach-life</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/fee-structure</loc>
+    <loc>https://ahws.edu.in/fee-structure</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/results</loc>
+    <loc>https://ahws.edu.in/results</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -84,19 +84,19 @@
 
   <!-- News, Media & Articles -->
   <url>
-    <loc>https://ahws.edu.in/#/blog</loc>
+    <loc>https://ahws.edu.in/blog</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/events</loc>
+    <loc>https://ahws.edu.in/events</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/gallery</loc>
+    <loc>https://ahws.edu.in/gallery</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -104,31 +104,31 @@
 
   <!-- Transparency, Compliance & Community -->
   <url>
-    <loc>https://ahws.edu.in/#/mandatory-disclosure</loc>
+    <loc>https://ahws.edu.in/mandatory-disclosure</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/careers</loc>
+    <loc>https://ahws.edu.in/careers</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/alumni</loc>
+    <loc>https://ahws.edu.in/alumni</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/committees</loc>
+    <loc>https://ahws.edu.in/committees</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ahws.edu.in/#/tc-database</loc>
+    <loc>https://ahws.edu.in/tc-database</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
