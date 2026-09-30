@@ -129,8 +129,14 @@
   </url>
   <url>
     <loc>https://ahws.edu.in/tc-database</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ahws.edu.in/faqs</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
