@@ -26,16 +26,16 @@ Academic Heights World School (AHWS) is a leading educational institution in Pit
 
 ## Primary Website Links
 - Homepage: https://ahws.edu.in/
-- Admissions (2027-28): https://ahws.edu.in/admission
-- Fee Structure: https://ahws.edu.in/fee-structure
-- About Us & Leadership: https://ahws.edu.in/about
-- SPROUT Curriculum: https://ahws.edu.in/curriculum
-- Beyond Curriculum (Sports & Arts): https://ahws.edu.in/beyond-curriculum
-- Infrastructure & Facilities: https://ahws.edu.in/infrastructure
-- Student Wellbeing & Guidance: https://ahws.edu.in/well-being
-- We Teach Life (Community & Service): https://ahws.edu.in/we-teach-life
-- CBSE Board Results & Toppers: https://ahws.edu.in/results
-- School Notice Board & Circulars: https://ahws.edu.in/notice-board
-- CBSE Mandatory Disclosure: https://ahws.edu.in/mandatory-disclosure
-- Contact & Campus Tour: https://ahws.edu.in/contact
-- Educational Blog: https://ahws.edu.in/blog
+- Admissions (2026-27): https://ahws.edu.in/#/admission
+- Fee Structure: https://ahws.edu.in/#/fee-structure
+- About Us & Leadership: https://ahws.edu.in/#/about
+- SPROUT Curriculum: https://ahws.edu.in/#/curriculum
+- Beyond Curriculum (Sports & Arts): https://ahws.edu.in/#/beyond-curriculum
+- Infrastructure & Facilities: https://ahws.edu.in/#/infrastructure
+- Student Wellbeing & Guidance: https://ahws.edu.in/#/well-being
+- We Teach Life (Community & Service): https://ahws.edu.in/#/we-teach-life
+- CBSE Board Results & Toppers: https://ahws.edu.in/#/results
+- School Notice Board & Circulars: https://ahws.edu.in/#/notice-board
+- CBSE Mandatory Disclosure: https://ahws.edu.in/#/mandatory-disclosure
+- Contact & Campus Tour: https://ahws.edu.in/#/contact
+- Educational Blog: https://ahws.edu.in/#/blog
